@@ -9,6 +9,20 @@
 <span style="font-size:600%;color:blue;">&#9837;</span>
 <span style="font-size:600%;color:yellow;">&#9838;</span>
 <span style="font-size:600%;color:blue;">&#9839;</span>
+  <span style="font-size:600%;color:yellow;">&#9833;</span>
+<span style="font-size:600%;color:red;">&#9836;</span>
+<span style="font-size:600%;color:blue;">&#9834;</span>
+<span style="font-size:600%;color:red;">&#9835;</span>
+<span style="font-size:600%;color:blue;">&#9837;</span>
+<span style="font-size:600%;color:yellow;">&#9838;</span>
+<span style="font-size:600%;color:blue;">&#9839;</span>
+  <span style="font-size:600%;color:yellow;">&#9833;</span>
+<span style="font-size:600%;color:red;">&#9836;</span>
+<span style="font-size:600%;color:blue;">&#9834;</span>
+<span style="font-size:600%;color:red;">&#9835;</span>
+<span style="font-size:600%;color:blue;">&#9837;</span>
+<span style="font-size:600%;color:yellow;">&#9838;</span>
+<span style="font-size:600%;color:blue;">&#9839;</span>
 </h2>
 
 Learning how to play the piano is not just a form of art. It’s likewise an opportunity to study different social and physical abilities. The best part is, both children and adults can learn the piano and obtain a higher admiration for music. So if you believe you are too old to take piano lessons Derby or your kid is too young for this, remember that it's never too early or too late to do so.
