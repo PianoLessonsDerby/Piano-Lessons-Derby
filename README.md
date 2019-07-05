@@ -2,6 +2,27 @@
 
 <img src="https://media.wikiful.com/5b8e95f4-6736-4f5d-b696-53dc1a0bcd51/22da7280-e24e-4f69-95a0-13f973d50e81/violin-lessons-nottingham.jpg" alt="Piano Lessons Derby" style="float:left;width:350px;height:300px;">
 <h2>
+  <span style="font-size:600%;color:yellow;">&#9833;</span>
+<span style="font-size:600%;color:red;">&#9836;</span>
+<span style="font-size:600%;color:blue;">&#9834;</span>
+<span style="font-size:600%;color:red;">&#9835;</span>
+<span style="font-size:600%;color:blue;">&#9837;</span>
+<span style="font-size:600%;color:yellow;">&#9838;</span>
+<span style="font-size:600%;color:blue;">&#9839;</span>
+  <span style="font-size:600%;color:yellow;">&#9833;</span>
+<span style="font-size:600%;color:red;">&#9836;</span>
+<span style="font-size:600%;color:blue;">&#9834;</span>
+<span style="font-size:600%;color:red;">&#9835;</span>
+<span style="font-size:600%;color:blue;">&#9837;</span>
+<span style="font-size:600%;color:yellow;">&#9838;</span>
+<span style="font-size:600%;color:blue;">&#9839;</span>
+<span style="font-size:600%;color:yellow;">&#9833;</span>
+<span style="font-size:600%;color:red;">&#9836;</span>
+<span style="font-size:600%;color:blue;">&#9834;</span>
+<span style="font-size:600%;color:red;">&#9835;</span>
+<span style="font-size:600%;color:blue;">&#9837;</span>
+<span style="font-size:600%;color:yellow;">&#9838;</span>
+<span style="font-size:600%;color:blue;">&#9839;</span>
 <span style="font-size:600%;color:yellow;">&#9833;</span>
 <span style="font-size:600%;color:red;">&#9836;</span>
 <span style="font-size:600%;color:blue;">&#9834;</span>
@@ -16,7 +37,7 @@
 <span style="font-size:600%;color:blue;">&#9837;</span>
 <span style="font-size:600%;color:yellow;">&#9838;</span>
 <span style="font-size:600%;color:blue;">&#9839;</span>
-  <span style="font-size:600%;color:yellow;">&#9833;</span>
+<span style="font-size:600%;color:yellow;">&#9833;</span>
 <span style="font-size:600%;color:red;">&#9836;</span>
 <span style="font-size:600%;color:blue;">&#9834;</span>
 <span style="font-size:600%;color:red;">&#9835;</span>
