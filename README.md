@@ -1,7 +1,7 @@
 # Why Learning With A Professional Piano Lessons Derby Provider Is A Good Idea?
 
 <img src="https://media.wikiful.com/5b8e95f4-6736-4f5d-b696-53dc1a0bcd51/22da7280-e24e-4f69-95a0-13f973d50e81/violin-lessons-nottingham.jpg" alt="Piano Lessons Derby" style="float:left;width:350px;height:300px;">
-<center>
+<h2>
 <span style="font-size:600%;color:yellow;">&#9833;</span>
 <span style="font-size:600%;color:red;">&#9836;</span>
 <span style="font-size:600%;color:blue;">&#9834;</span>
@@ -9,7 +9,7 @@
 <span style="font-size:600%;color:blue;">&#9837;</span>
 <span style="font-size:600%;color:yellow;">&#9838;</span>
 <span style="font-size:600%;color:blue;">&#9839;</span>
-</center>
+</h2>
 
 Learning how to play the piano is not just a form of art. It’s likewise an opportunity to study different social and physical abilities. The best part is, both children and adults can learn the piano and obtain a higher admiration for music. So if you believe you are too old to take piano lessons Derby or your kid is too young for this, remember that it's never too early or too late to do so.
 
